@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Actualizar información de un socio {% endblock %}</h1>
+    <form method="post">
+        <p>
+            <label for="id">Dar de baja a un socio:  </label>
+            <input type="number" name="id"
+                   placeholder="id usuario">
+            </input>
+        </p>
+
+        <p>
+          <button type="submit">Submit</button>
+      </p>
+    </form>
+{% endblock %}

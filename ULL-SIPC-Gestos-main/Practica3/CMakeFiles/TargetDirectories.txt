@@ -1,0 +1,3 @@
+/home/diego/Universidad/SIPC/Practica3/CMakeFiles/rebuild_cache.dir
+/home/diego/Universidad/SIPC/Practica3/CMakeFiles/edit_cache.dir
+/home/diego/Universidad/SIPC/Practica3/CMakeFiles/Gestos.dir

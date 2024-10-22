@@ -1,0 +1,313 @@
+{
+    "count": 10,
+    "season": {
+        "winner": null,
+        "currentMatchday": 6,
+        "endDate": "2022-12-18",
+        "id": 1382,
+        "startDate": "2022-11-20"
+    },
+    "competition": {
+        "code": "WC",
+        "name": "FIFA World Cup",
+        "id": 2000,
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/qatar.png"
+    },
+    "filters": {
+        "limit": 10,
+        "season": 2022
+    },
+    "scorers": [
+        {
+            "penalties": 3,
+            "assists": 3,
+            "team": {
+                "venue": null,
+                "lastUpdated": "2022-05-17T21:09:25Z",
+                "website": "http://www.afa.org.ar",
+                "address": "Viamonte 1366/76 Buenos Aires, Buenos Aires 1053",
+                "clubColors": "Sky Blue / White / Black",
+                "name": "Argentina",
+                "tla": "ARG",
+                "founded": 1893,
+                "id": 762,
+                "shortName": "Argentina",
+                "crest": "https://crests.football-data.org/762.png"
+            },
+            "player": {
+                "firstName": "Lionel Andrés",
+                "lastName": "Messi Cuccittini",
+                "lastUpdated": "2022-07-26T15:46:16Z",
+                "nationality": "Argentina",
+                "shirtNumber": null,
+                "name": "Lionel Messi",
+                "dateOfBirth": "1987-06-24",
+                "id": 3218,
+                "position": "Offence"
+            },
+            "goals": 5
+        },
+        {
+            "penalties": null,
+            "assists": 2,
+            "team": {
+                "venue": "Stade de France",
+                "lastUpdated": "2021-05-26T09:47:59Z",
+                "website": "http://www.fff.fr",
+                "address": "87 Boulevard de Grenelle Paris 75738",
+                "clubColors": "Blue / White / Red",
+                "name": "France",
+                "tla": "FRA",
+                "founded": 1919,
+                "id": 773,
+                "shortName": "France",
+                "crest": "https://crests.football-data.org/773.svg"
+            },
+            "player": {
+                "firstName": "Kylian Sanmi",
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:24Z",
+                "nationality": "France",
+                "shirtNumber": null,
+                "name": "Kylian Mbappé",
+                "dateOfBirth": "1998-12-20",
+                "id": 3374,
+                "position": "Offence"
+            },
+            "goals": 5
+        },
+        {
+            "penalties": null,
+            "assists": null,
+            "team": {
+                "venue": "Stade de France",
+                "lastUpdated": "2021-05-26T09:47:59Z",
+                "website": "http://www.fff.fr",
+                "address": "87 Boulevard de Grenelle Paris 75738",
+                "clubColors": "Blue / White / Red",
+                "name": "France",
+                "tla": "FRA",
+                "founded": 1919,
+                "id": 773,
+                "shortName": "France",
+                "crest": "https://crests.football-data.org/773.svg"
+            },
+            "player": {
+                "firstName": "Olivier",
+                "lastName": "Giroud",
+                "lastUpdated": "2021-10-13T08:04:04Z",
+                "nationality": "France",
+                "shirtNumber": null,
+                "name": "Olivier Giroud",
+                "dateOfBirth": "1986-09-30",
+                "id": 3371,
+                "position": "Offence"
+            },
+            "goals": 4
+        },
+        {
+            "penalties": null,
+            "assists": null,
+            "team": {
+                "venue": null,
+                "lastUpdated": "2022-05-17T21:09:25Z",
+                "website": "http://www.afa.org.ar",
+                "address": "Viamonte 1366/76 Buenos Aires, Buenos Aires 1053",
+                "clubColors": "Sky Blue / White / Black",
+                "name": "Argentina",
+                "tla": "ARG",
+                "founded": 1893,
+                "id": 762,
+                "shortName": "Argentina",
+                "crest": "https://crests.football-data.org/762.png"
+            },
+            "player": {
+                "firstName": "Julián",
+                "lastName": "Álvarez",
+                "lastUpdated": "2022-04-07T08:11:19Z",
+                "nationality": "Argentina",
+                "shirtNumber": null,
+                "name": "Julián Álvarez",
+                "dateOfBirth": "2000-01-31",
+                "id": 98571,
+                "position": "Offence"
+            },
+            "goals": 4
+        },
+        {
+            "penalties": 1,
+            "assists": null,
+            "team": {
+                "venue": null,
+                "lastUpdated": "2022-11-10T15:13:40Z",
+                "website": "http://www.ecuafutbol.org",
+                "address": "Avenida Las Aguas y Calle Alianza Guayaquil 593",
+                "clubColors": "Yellow / Blue / Red",
+                "name": "Ecuador",
+                "tla": "ECU",
+                "founded": 1925,
+                "id": 791,
+                "shortName": "Ecuador",
+                "crest": "https://crests.football-data.org/791.svg"
+            },
+            "player": {
+                "firstName": "Enner Remberto",
+                "lastName": "Valencia Lastra",
+                "lastUpdated": "2021-10-13T08:03:57Z",
+                "nationality": "Ecuador",
+                "shirtNumber": null,
+                "name": "Enner Valencia",
+                "dateOfBirth": "1989-11-04",
+                "id": 40009,
+                "position": "Midfield"
+            },
+            "goals": 3
+        },
+        {
+            "penalties": null,
+            "assists": null,
+            "team": {
+                "venue": "Wembley Stadium",
+                "lastUpdated": "2021-05-26T09:47:50Z",
+                "website": "http://www.thefa.com",
+                "address": "Wembley Stadium, PO Box 1966 London SW1P 9EQ",
+                "clubColors": "White / Red / Navy Blue",
+                "name": "England",
+                "tla": "ENG",
+                "founded": 1863,
+                "id": 770,
+                "shortName": "England",
+                "crest": "https://crests.football-data.org/770.svg"
+            },
+            "player": {
+                "firstName": "Bukayo",
+                "lastName": null,
+                "lastUpdated": "2020-09-07T20:49:31Z",
+                "nationality": "England",
+                "shirtNumber": null,
+                "name": "Bukayo Saka",
+                "dateOfBirth": "2001-09-05",
+                "id": 99813,
+                "position": "Offence"
+            },
+            "goals": 3
+        },
+        {
+            "penalties": null,
+            "assists": null,
+            "team": {
+                "venue": "Wembley Stadium",
+                "lastUpdated": "2021-05-26T09:47:50Z",
+                "website": "http://www.thefa.com",
+                "address": "Wembley Stadium, PO Box 1966 London SW1P 9EQ",
+                "clubColors": "White / Red / Navy Blue",
+                "name": "England",
+                "tla": "ENG",
+                "founded": 1863,
+                "id": 770,
+                "shortName": "England",
+                "crest": "https://crests.football-data.org/770.svg"
+            },
+            "player": {
+                "firstName": "Marcus",
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:14:23Z",
+                "nationality": "England",
+                "shirtNumber": null,
+                "name": "Marcus Rashford",
+                "dateOfBirth": "1997-10-31",
+                "id": 3331,
+                "position": "Offence"
+            },
+            "goals": 3
+        },
+        {
+            "penalties": null,
+            "assists": null,
+            "team": {
+                "venue": "Johan Cruyff ArenA",
+                "lastUpdated": "2021-05-28T18:49:20Z",
+                "website": "http://www.knvb.nl",
+                "address": "Woudenbergseweg 56-58 / Postbus 515 Zeist 3700 AM",
+                "clubColors": "Orange / White / Blue",
+                "name": "Netherlands",
+                "tla": "NED",
+                "founded": 1889,
+                "id": 8601,
+                "shortName": "Netherlands",
+                "crest": "https://crests.football-data.org/8601.svg"
+            },
+            "player": {
+                "firstName": "Cody",
+                "lastName": null,
+                "lastUpdated": "2021-05-28T18:49:20Z",
+                "nationality": "Netherlands",
+                "shirtNumber": null,
+                "name": "Cody Gakpo",
+                "dateOfBirth": "1999-05-07",
+                "id": 7459,
+                "position": "Offence"
+            },
+            "goals": 3
+        },
+        {
+            "penalties": null,
+            "assists": 1,
+            "team": {
+                "venue": "Estadio Alfredo Di Stéfano",
+                "lastUpdated": "2021-05-26T09:46:48Z",
+                "website": "http://www.rfef.es",
+                "address": "Ramón y Cajal, s/n Las Rozas 28230",
+                "clubColors": "Red / Blue / Yellow",
+                "name": "Spain",
+                "tla": "ESP",
+                "founded": 1909,
+                "id": 760,
+                "shortName": "Spain",
+                "crest": "https://crests.football-data.org/760.svg"
+            },
+            "player": {
+                "firstName": "Álvaro Borja",
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:19:40Z",
+                "nationality": "Spain",
+                "shirtNumber": null,
+                "name": "Álvaro Morata",
+                "dateOfBirth": "1992-10-23",
+                "id": 7819,
+                "position": "Offence"
+            },
+            "goals": 3
+        },
+        {
+            "penalties": null,
+            "assists": null,
+            "team": {
+                "venue": null,
+                "lastUpdated": "2021-05-22T11:31:45Z",
+                "website": "http://www.cbf.com.br/",
+                "address": "Rua Victor Civita 66 Bloco 1, Edifico 5 Rio de Janeiro, RJ 22775-044",
+                "clubColors": "Yellow / Green / Blue",
+                "name": "Brazil",
+                "tla": "BRA",
+                "founded": 1914,
+                "id": 764,
+                "shortName": "Brazil",
+                "crest": "https://crests.football-data.org/764.svg"
+            },
+            "player": {
+                "firstName": "Richarlison",
+                "lastName": null,
+                "lastUpdated": "2021-04-12T13:10:14Z",
+                "nationality": "Brazil",
+                "shirtNumber": null,
+                "name": "Richarlison",
+                "dateOfBirth": "1997-05-10",
+                "id": 8133,
+                "position": "Offence"
+            },
+            "goals": 3
+        }
+    ]
+}

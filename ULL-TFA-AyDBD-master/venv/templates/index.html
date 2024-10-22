@@ -1,0 +1,12 @@
+﻿{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Clientes suscritos {% endblock %}</h1>
+    {% for val in vals %}
+        <div class='val'>
+            <h3>#{{ val[3] }} - {{ val[1] }} </h3>
+            <p> Teléfono: {{ val[2] }} </p>
+            <p> DNI: {{ val[0] }} </p>
+        </div>
+    {% endfor %}
+{% endblock %}
